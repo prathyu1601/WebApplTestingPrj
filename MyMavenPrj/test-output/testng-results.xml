@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[OrangeHRM]]>
+    </line>
+  </reporter-output>
+  <suite name="LogIn" duration-ms="16087" started-at="2018-04-23T15:05:42Z" finished-at="2018-04-23T15:05:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16087" started-at="2018-04-23T15:05:42Z" finished-at="2018-04-23T15:05:58Z">
+      <class name="com.newToursLoginTest.MyMavenPrj.LogInTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newToursLoginTest.MyMavenPrj.LogInTest@50d0686]" name="setUp" is-config="true" duration-ms="13030" started-at="2018-04-23T15:05:42Z" finished-at="2018-04-23T15:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:com.newToursLoginTest.MyMavenPrj.LogInTest@50d0686]" name="LogIn" duration-ms="2990" started-at="2018-04-23T15:05:55Z" finished-at="2018-04-23T15:05:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[OrangeHRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newToursLoginTest.MyMavenPrj.LogInTest@50d0686]" name="tearDown" is-config="true" duration-ms="45" started-at="2018-04-23T15:05:58Z" finished-at="2018-04-23T15:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newToursLoginTest.MyMavenPrj.LogInTest -->
+    </test> <!-- Test -->
+  </suite> <!-- LogIn -->
+</testng-results>

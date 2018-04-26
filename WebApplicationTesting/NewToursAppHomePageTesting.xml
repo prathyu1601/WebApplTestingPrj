@@ -1,0 +1,18 @@
+
+<suite name="NewToursAppHomePageTesting" parallel="tests">
+
+  <test name="POM">
+    <classes>
+      <class name="com.POM.NewToursApplicationHomePageTesting"/>
+    </classes>
+  </test> 
+
+  <test name="LogInTest">
+    <classes>
+      <class name= "com.NewToursLogInTest.LogInTest" />
+    </classes>
+  </test> 
+  
+<!-- parallel="tests"-->
+
+</suite>

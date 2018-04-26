@@ -1,0 +1,6 @@
+2018-04-26 09:54:13,087 - NewToursLogInTest -INFO - FIrefox Browser successfull Launched
+2018-04-26 09:54:14,314 - NewToursLogInTest -INFO - Navigate to NewTours Application
+2018-04-26 09:54:14,531 - NewToursLogInTest -INFO - Entered valid username
+2018-04-26 09:54:14,608 - NewToursLogInTest -INFO - Entered valid password
+2018-04-26 09:54:20,375 - NewToursLogInTest -INFO - Login button is clicked
+2018-04-26 09:54:20,648 - NewToursLogInTest -INFO - Closing the application

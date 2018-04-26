@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NewTours Application Testing]">
+  <test name="DataDriven(failed)">
+    <classes>
+      <class name="com.DataDriven.NewTours_NewUserRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="UserRegistration"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.DataDriven.NewTours_NewUserRegistration -->
+      <class name="com.KeyWord.NewToursLogInTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.KeyWord.NewToursLogInTest -->
+    </classes>
+  </test> <!-- DataDriven(failed) -->
+</suite> <!-- Failed suite [NewTours Application Testing] -->
